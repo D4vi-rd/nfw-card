@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* cores primarias */
+    --blue-500: hsl(215, 51%, 70%);
+    --cyan-400: hsl(178, 100%, 50%);
+
+    /* cores neutras */
+    --bg-blue: hsl(217, 54%, 11%);
+    --bg-card: hsl(216, 50%, 16%);
+    --gray: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+
+    --ff: "Outfit", sans-serif;
+
+}
