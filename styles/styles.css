@@ -177,6 +177,12 @@ body {
             margin-inline: auto;
         }
 
+        .overlay:hover {
+            max-width: 400px;
+            max-height: 370px;
+            margin-inline: auto;
+        }
+
 
         h1 {
             font-size: 25px;
